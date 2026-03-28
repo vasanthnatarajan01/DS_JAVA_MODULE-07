@@ -18,10 +18,9 @@ If there is no cycle, the program should return null without modifying the linke
 ## Program:
 ```
  /*
-program that detects a cycle in a linked list and returns the node where the cycle begins.
-If there is no cycle, the program should return null without modifying the linked list.
-Developed by: karthik saravanan b
-RegisterNumber: 212224230118
+Program To determine the minimum value (e.g., lowest heartbeat), implement a recursive method.
+Developed by: VASANTH N
+RegisterNumber:  212224110060
 */
 class DetectCycle {
 
