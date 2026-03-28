@@ -16,10 +16,10 @@ Display the rotated linked list.
 ## Program:
 ```
 /*
-Program to  Right Rotation LinkedList
-Developed by: karthik saravanan b
-RegisterNumber: 212224230118
-
+Program To determine the minimum value (e.g., lowest heartbeat), implement a recursive method.
+Developed by: VASANTH N
+RegisterNumber:  212224110060
+*/
 import java.util.Scanner;
 
 class Node {
