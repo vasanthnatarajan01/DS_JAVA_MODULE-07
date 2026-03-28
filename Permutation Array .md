@@ -18,9 +18,9 @@ The task is to return the maximum size among all such sets.
 ## Program:
 ```
 /*
-program that removes all nodes from a linked list whose value matches a given integer (val) and returns the new head of the modified linked list.
-Developed by:karthik saravanan b
-RegisterNumber:  212224230118
+Program To determine the minimum value (e.g., lowest heartbeat), implement a recursive method.
+Developed by: VASANTH N
+RegisterNumber:  212224110060
 */
 import java.util.Scanner;
 
