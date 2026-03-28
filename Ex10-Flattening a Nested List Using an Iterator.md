@@ -19,11 +19,10 @@ To design and implement a class NestedIterator that flattens a nested list of in
 ## Program:
 ```
 /*
-Program to find Flattening a Nested List Using an Iterator
-Developed by:karthik saravanan b
-RegisterNumber: 212224230118
-import java.util.*;
-
+Program To determine the minimum value (e.g., lowest heartbeat), implement a recursive method.
+Developed by: VASANTH N
+RegisterNumber:  212224110060
+*/
 interface NestedInteger {
     boolean isInteger();
     Integer getInteger();
