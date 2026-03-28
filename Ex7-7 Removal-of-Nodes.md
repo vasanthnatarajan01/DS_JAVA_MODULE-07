@@ -19,10 +19,9 @@ To write a java  program that removes all nodes from a linked list whose value m
 ## Program:
 ```
 /*
-program that removes all nodes from a linked list whose value matches a given integer (val) and returns the new head of the modified linked list.
-Developed by: karthik saravanan b
-RegisterNumber: 212224230118
-
+Program To determine the minimum value (e.g., lowest heartbeat), implement a recursive method.
+Developed by: VASANTH N
+RegisterNumber:  212224110060
 */
 class RemoveNodes {
     static class Node {
